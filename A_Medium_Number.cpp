@@ -18,7 +18,6 @@ int main() {
         if (a != maxi && a != mini) cout << a << "\n";
         else if (b != maxi && b != mini) cout << b << "\n";
         else cout << c << "\n";
-
     }
 
     return 0;
